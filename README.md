@@ -9,6 +9,7 @@ II. Projet
 
 Le site internet présente le profil de l'étudiant. 
 La page d'accueil se composera d'un menu comprenant minimum 3 categories : 
+
 Curriculum Vitae 
 Formulaire de contact 
 Articles
@@ -18,6 +19,14 @@ III. Expression Fonctionnelle du Besoin
 Contraintes techniques
 Site internet développé avec les languages HTML, CSS et PHP. 
 Editeur : PHP Storm ou Atom
+Système de gestion de version : GitHub
+
+Contraintes oéprationnelles 
+Dead line : 25 mai 2019
+Le niveau de la "codeuse"
+
+
+
 
 
 
