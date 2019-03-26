@@ -2,7 +2,7 @@
 
 ## I. Contexte
 
-Mis en place d'un site internet présentant le profil d'un étudiant de la promotion "Référent Digital 2019" de la NFactory School de Rouen. 
+Création d'un site internet présentant le profil d'un étudiant de la promotion "Référent Digital 2019" de la NFactory School de Rouen. 
 
 La réalisation du projet sera prise en compte pour l'obtention de la certification à l'issue de la formation.
 
@@ -43,7 +43,7 @@ Le niveau de la "codeuse"
 
 Le site devra être commiter sur GitHub
 
-Le lien devra être actif (-50% des points si lien inactif). 
+Le lien devra être actif (-50% des points si lien inactif)
 
 Respect de la dead line
 
