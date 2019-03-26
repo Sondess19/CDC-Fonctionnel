@@ -27,9 +27,7 @@ Editeur : PHP Storm ou Atom
 Système de gestion de version : GitHub
 
 
-*Options:* 
-
-Site responsive (Bootstrap) - Javascript
+*Options:* Site responsive (Bootstrap) - Javascript
 
 
 
