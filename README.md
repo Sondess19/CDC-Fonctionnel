@@ -26,17 +26,18 @@ Editeur : PHP Storm ou Atom
 
 Système de gestion de version : GitHub
 
-Options: 
 
-Site responsive (Bootstrap)
+*Options:* 
 
-Javascript
+Site responsive (Bootstrap) - Javascript
+
 
 *2. Contraintes opérationnelles*
 
 Dead line : 25 mai 2019
 
 Le niveau de la "codeuse"
+
 
 ## IV. Critères d'évaluation 
 
