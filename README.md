@@ -1,20 +1,20 @@
 # CDC-Fonctionnel
 
-I. Contexte
+## I. Contexte
 
 Mis en place d'un site internet présentant le profil d'un étudiant de la promotion "Référent Digital 2019" de la NFactory School de Rouen. 
 La réalisation du projet sera prise en compte pour l'obtention de la certification à l'issue de la formation.
 
-II. Projet 
+## II. Projet 
 
 Le site internet présente le profil de l'étudiant. 
 La page d'accueil se composera d'un menu comprenant minimum 3 categories : 
 
-a.Curriculum Vitae 
-b.Formulaire de contact
-c.Articles
++ a.Curriculum Vitae 
++ b.Formulaire de contact
++ c.Articles
 
-III. Expression Fonctionnelle du Besoin 
+## III. Expression Fonctionnelle du Besoin 
 
 1.Contraintes techniques
 Site internet développé avec les languages HTML, CSS et PHP. 
@@ -29,7 +29,7 @@ Javascript
 Dead line : 25 mai 2019
 Le niveau de la "codeuse"
 
-IV. Critères d'évaluation 
+## IV. Critères d'évaluation 
 Le site devra être commiter sur GitHub
 Le lien devra être actif (-50% des points si lien inactif). 
 Respect de la dead line
