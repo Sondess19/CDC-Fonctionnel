@@ -10,23 +10,26 @@ La réalisation du projet sera prise en compte pour l'obtention de la certificat
 Le site internet présente le profil de l'étudiant. 
 La page d'accueil se composera d'un menu comprenant minimum 3 categories : 
 
-+ a.Curriculum Vitae 
-+ b.Formulaire de contact
-+ c.Articles
++ Curriculum Vitae 
++ Formulaire de contact
++ Articles
 
 ## III. Expression Fonctionnelle du Besoin 
 
-1.Contraintes techniques
+*1.Contraintes techniques*
 Site internet développé avec les languages HTML, CSS et PHP. 
+
 Editeur : PHP Storm ou Atom
+
 Système de gestion de version : GitHub
 
 Options: 
 Site responsive (Bootstrap)
 Javascript
 
-2.Contraintes oéprationnelles 
+*2.Contraintes opérationnelles*
 Dead line : 25 mai 2019
+
 Le niveau de la "codeuse"
 
 ## IV. Critères d'évaluation 
