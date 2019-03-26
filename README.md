@@ -10,7 +10,7 @@ La réalisation du projet sera prise en compte pour l'obtention de la certificat
 
 Le site internet présentera le profil de l'étudiant. 
 
-La page d'accueil se composera d'un menu comprenant minimum 3 categories : 
+La page d'accueil se composera d'un menu comprenant minimum 3 catégories : 
 
 + Curriculum Vitae 
 + Formulaire de contact
